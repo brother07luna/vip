@@ -1,6 +1,6 @@
 {
   "_comentario_1": "--- CONFIGURACIÓN GENERAL DEL TORNEO ---",
-  "fechaInicio": "01/08/2026",
+  "fechaInicio": "10/08/2026",
   "fechaFin": "2026-08-07T23:59:59",
   "ultimaActualizacion": "01/08/2026 00:00",
   
@@ -9,14 +9,14 @@
   
   "_comentario_3": "--- LISTA DE 20 JUGADORES VIP (Modifica los apodos y pon cargas en 0 al iniciar) ---",
   "jugadores": [
-    { "usuario": "VIP-Jugador01", "cargas": 0 },
-    { "usuario": "VIP-Jugador02", "cargas": 0 },
-    { "usuario": "VIP-Jugador03", "cargas": 0 },
-    { "usuario": "VIP-Jugador04", "cargas": 0 },
-    { "usuario": "VIP-Jugador05", "cargas": 0 },
-    { "usuario": "VIP-Jugador06", "cargas": 0 },
-    { "usuario": "VIP-Jugador07", "cargas": 0 },
-    { "usuario": "VIP-Jugador08", "cargas": 0 },
+    { "usuario": "Mari", "cargas": 0 },
+    { "usuario": "tadeo", "cargas": 0 },
+    { "usuario": "sergio", "cargas": 0 },
+    { "usuario": "gisel", "cargas": 0 },
+    { "usuario": "esther", "cargas": 0 },
+    { "usuario": "walter", "cargas": 0 },
+    { "usuario": "dalila", "cargas": 0 },
+    { "usuario": "anto", "cargas": 0 },
     { "usuario": "VIP-Jugador09", "cargas": 0 },
     { "usuario": "VIP-Jugador10", "cargas": 0 },
     { "usuario": "VIP-Jugador11", "cargas": 0 },
