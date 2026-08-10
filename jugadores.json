@@ -2,7 +2,7 @@
   "_comentario_1": "--- CONFIGURACIÓN GENERAL DEL TORNEO ---",
   "fechaInicio": "10/08/2026",
   "fechaFin": "2026-08-17T23:59:59",
-  "ultimaActualizacion": "10/08/2026 13:50",
+  "ultimaActualizacion": "10/08/2026 14:30",
   
   "_comentario_2": "--- RUTA DEL VIDEO DE FONDO (gifs/1.mp4, gifs/2.mp4, etc.) ---",
   "videoFondo": "gifs/2.mp4",
@@ -14,7 +14,7 @@
     { "usuario": "sergio", "cargas": 0 },
     { "usuario": "gisel", "cargas": 0 },
     { "usuario": "esther", "cargas": 2000 },
-    { "usuario": "walter", "cargas": 0 },
+    { "usuario": "walter", "cargas": 5000 },
     { "usuario": "dalila", "cargas": 20000 },
     { "usuario": "anto", "cargas": 0 },
     { "usuario": "hernan", "cargas": 0 },
