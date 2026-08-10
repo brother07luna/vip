@@ -9,7 +9,7 @@
   
   "_comentario_3": "--- LISTA DE 20 JUGADORES VIP (Modifica los apodos y pon cargas en 0 al iniciar) ---",
   "jugadores": [
-    { "usuario": "Mari", "cargas": 0 },
+    { "usuario": "Mari", "cargas": 17000 },
     { "usuario": "tadeo", "cargas": 0 },
     { "usuario": "sergio", "cargas": 0 },
     { "usuario": "gisel", "cargas": 0 },
