@@ -2,20 +2,20 @@
   "_comentario_1": "--- CONFIGURACIÓN GENERAL DEL TORNEO ---",
   "fechaInicio": "10/08/2026",
   "fechaFin": "2026-08-17T23:59:59",
-  "ultimaActualizacion": "12/08/2026 00:30",
+  "ultimaActualizacion": "12/08/2026 02:15",
   
   "_comentario_2": "--- RUTA DEL VIDEO DE FONDO (gifs/1.mp4, gifs/2.mp4, etc.) ---",
   "videoFondo": "gifs/2.mp4",
   
   "_comentario_3": "--- LISTA DE 20 JUGADORES VIP (Modifica los apodos y pon cargas en 0 al iniciar) ---",
   "jugadores": [
-    { "usuario": "Mari", "cargas": 95000 },
+    { "usuario": "Mari", "cargas": 115000 },
     { "usuario": "luis", "cargas": 49000 },
     { "usuario": "sergio", "cargas": 101800 },
     { "usuario": "gisel", "cargas": 130600 },
     { "usuario": "esther", "cargas": 12000 },
     { "usuario": "walter", "cargas": 46000 },
-    { "usuario": "dalila", "cargas": 92400 },
+    { "usuario": "dalila", "cargas": 122400 },
     { "usuario": "anto", "cargas": 68900 },
     { "usuario": "hernan", "cargas": 31950 },
     { "usuario": "laura", "cargas": 15000 },
