@@ -9,25 +9,25 @@
   
   "_comentario_3": "--- LISTA DE 20 JUGADORES VIP (Modifica los apodos y pon cargas en 0 al iniciar) ---",
   "jugadores": [
-    { "usuario": "Mari", "cargas": 168000 },
+    { "usuario": "Mari", "cargas": 202000 },
     { "usuario": "luis", "cargas": 124400 },
     { "usuario": "sergio", "cargas": 148900 },
     { "usuario": "gisel", "cargas": 815600 },
-    { "usuario": "esther", "cargas": 32000 },
-    { "usuario": "walter", "cargas": 129500 },
+    { "usuario": "esther", "cargas": 84800 },
+    { "usuario": "walter", "cargas": 152000 },
     { "usuario": "dalila", "cargas": 361400 },
     { "usuario": "anto", "cargas": 89900 },
-    { "usuario": "hernan", "cargas": 53180 },
-    { "usuario": "laura", "cargas": 72000 },
-    { "usuario": "priscila", "cargas":38600 },
+    { "usuario": "hernan", "cargas": 76610 },
+    { "usuario": "laura", "cargas": 10200 },
+    { "usuario": "priscila", "cargas":49200 },
     { "usuario": "jesi", "cargas": 0 },
-    { "usuario": "ivi", "cargas": 17000 },
-    { "usuario": "dalma", "cargas": 115000 },
+    { "usuario": "ivi", "cargas": 34000 },
+    { "usuario": "dalma", "cargas": 125000 },
     { "usuario": "luci", "cargas": 45500 },
-    { "usuario": "juan", "cargas": 76000 },
+    { "usuario": "juan", "cargas": 104000 },
     { "usuario": "fede", "cargas": 37000 },
-    { "usuario": "rita", "cargas": 35000 },
+    { "usuario": "rita", "cargas": 54200 },
     { "usuario": "ramona", "cargas": 116800 },
-    { "usuario": "ana", "cargas": 80300 }
+    { "usuario": "ana", "cargas": 101300 }
   ]
 }
