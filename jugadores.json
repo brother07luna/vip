@@ -2,10 +2,10 @@
   "_comentario_1": "--- CONFIGURACIÓN GENERAL DEL TORNEO ---",
   "fechaInicio": "17/08/2026",
   "fechaFin": "2026-08-24T23:59:59",
-  "ultimaActualizacion": "01/08/2026 00:00",
+  "ultimaActualizacion": "17/08/2026 00:00",
   
   "_comentario_2": "--- RUTA DEL VIDEO DE FONDO (gifs/1.mp4, gifs/2.mp4, etc.) ---",
-  "videoFondo": "gifs/2.mp4",
+  "videoFondo": "gifs/1.mp4",
   
   "_comentario_3": "--- LISTA DE 20 JUGADORES VIP (Modifica los apodos y pon cargas en 0 al iniciar) ---",
   "jugadores": [
