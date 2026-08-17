@@ -15,9 +15,9 @@
     { "usuario": "walter", "cargas": 0 },
     { "usuario": "talia", "cargas": 0 },
     { "usuario": "celeste", "cargas": 0 },
-    { "usuario": "ariel", "cargas": 0 },
+    { "usuario": "ariel", "cargas": 5000 },
     { "usuario": "ayelen", "cargas": 0 },
-    { "usuario": "camy", "cargas": 0 },
+    { "usuario": "camy", "cargas": 16500 },
     { "usuario": "daniela", "cargas": 0 },
     { "usuario": "fabiana", "cargas": 0 },
     { "usuario": "dani", "cargas": 0 },
@@ -25,11 +25,11 @@
     { "usuario": "soledad", "cargas": 0 },
     { "usuario": "marce", "cargas": 0 },
     { "usuario": "miriam", "cargas": 0 },
-    { "usuario": "lucii", "cargas": 0 },
-    { "usuario": "pao", "cargas": 0 },
+    { "usuario": "lucii", "cargas": 2000 },
+    { "usuario": "pao", "cargas": 10000 },
     { "usuario": "sandra", "cargas": 0 },
     { "usuario": "romi", "cargas": 0 },
-    { "usuario": "dalma", "cargas": 0 },
+    { "usuario": "dalma", "cargas": 15000 },
     { "usuario": "camila", "cargas": 0 }
   ]
 }
